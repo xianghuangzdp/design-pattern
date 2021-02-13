@@ -1,4 +1,4 @@
-package com.zdp.study.build.abstractfactory;
+package com.zdp.study.build.abstractfactory.king;
 
 /**
  * @author zdp
