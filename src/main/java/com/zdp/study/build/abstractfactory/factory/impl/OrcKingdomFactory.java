@@ -1,6 +1,5 @@
 package com.zdp.study.build.abstractfactory.factory.impl;
 
-import com.zdp.study.build.abstractfactory.Kingdom;
 import com.zdp.study.build.abstractfactory.army.Army;
 import com.zdp.study.build.abstractfactory.army.OrcArmy;
 import com.zdp.study.build.abstractfactory.castle.Castle;
