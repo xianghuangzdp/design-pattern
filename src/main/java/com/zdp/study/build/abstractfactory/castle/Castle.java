@@ -6,5 +6,9 @@ package com.zdp.study.build.abstractfactory.castle;
  * @desc 城堡
  */
 public interface Castle {
+    /**
+     * 描述
+     * @return
+     */
     String desc();
 }

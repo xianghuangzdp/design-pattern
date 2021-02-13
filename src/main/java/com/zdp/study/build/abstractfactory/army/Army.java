@@ -6,5 +6,9 @@ package com.zdp.study.build.abstractfactory.army;
  * @desc 军队
  */
 public interface Army {
+    /**
+     * 描述
+     * @return
+     */
     String desc();
 }
