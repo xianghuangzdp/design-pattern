@@ -6,5 +6,9 @@ package com.zdp.study.build.abstractfactory;
  * @desc
  */
 public interface King {
+    /**
+     * 描述
+     * @return
+     */
     String desc();
 }
