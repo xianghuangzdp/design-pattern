@@ -1,4 +1,4 @@
-package com.zdp.study.action.templatemethod;
+package com.zdp.study.behavioral.templatemethod;
 
 /**
  * @author zdp

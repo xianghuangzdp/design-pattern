@@ -1,4 +1,4 @@
-package com.zdp.study.action.strategy;
+package com.zdp.study.behavioral.strategy;
 
 /**
  * @author zdp
